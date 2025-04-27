@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5a6242672b9a8d1f","x":-40,"y":-240,"width":250,"height":60,"type":"text","text":"regression（回归）"},
+		{"id":"2c1fe4e1475abd0b","x":-43,"y":-161,"width":250,"height":60,"type":"text","text":"classification"},
+		{"id":"7758095737c04fd6","x":-360,"y":-80,"width":250,"height":50,"type":"text","text":"supervised learning"},
+		{"id":"70eddfeb1a427bf8","x":-700,"y":7,"width":250,"height":60,"type":"text","text":"machine learning"},
+		{"id":"218d3c6d314fa999","x":-360,"y":37,"width":250,"height":60,"type":"text","text":"unspervised learning"},
+		{"id":"6939f40144abd156","x":-43,"y":-17,"width":250,"height":60,"type":"text","text":"clustering（群集）"},
+		{"id":"cf4875cbfe234970","x":-360,"y":140,"width":250,"height":80,"type":"text","text":"监督学习：给定输入x和输出y\n无监督学习：只给定x，要求找到x的结构/性质"},
+		{"id":"da5f46327192d82c","x":-40,"y":97,"width":250,"height":60,"type":"text","text":"anomaly detection（异常检测）"}
+	],
+	"edges":[
+		{"id":"170fb10ca2e69f7f","fromNode":"7758095737c04fd6","fromSide":"right","toNode":"5a6242672b9a8d1f","toSide":"left"},
+		{"id":"5d36ea7421d3627d","fromNode":"7758095737c04fd6","fromSide":"right","toNode":"2c1fe4e1475abd0b","toSide":"left"},
+		{"id":"a514ceb15c31cf33","fromNode":"70eddfeb1a427bf8","fromSide":"right","toNode":"7758095737c04fd6","toSide":"left"},
+		{"id":"74147014866f864f","fromNode":"70eddfeb1a427bf8","fromSide":"right","toNode":"218d3c6d314fa999","toSide":"left"},
+		{"id":"95ff9b995659beb7","fromNode":"218d3c6d314fa999","fromSide":"right","toNode":"6939f40144abd156","toSide":"left"},
+		{"id":"91e0502cfa402ef2","fromNode":"218d3c6d314fa999","fromSide":"right","toNode":"da5f46327192d82c","toSide":"left"}
+	]
+}

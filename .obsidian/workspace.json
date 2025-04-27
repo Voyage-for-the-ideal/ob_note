@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "2b5b5dd7232c2ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3d9402f80be717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb3daaa0f599eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科考/25暑期/第一次研讨.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一次研讨"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36556c0acdb20b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e6c04649ee3599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21070c55ffe91b47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7802c94d867db4b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "正则",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1236fdfd3154487a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ab09bfc0044350f",
+    "type": "split",
+    "children": [
+      {
+        "id": "218bb506d82a2fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580110f1c1a85520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "科考/25暑期/第一次研讨.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一次研讨 的反向链接列表"
+            }
+          },
+          {
+            "id": "b8ecaf1bcbadc2c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "408531ade09c9fea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "48fd5903dbb42d4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0bb3daaa0f599eca",
+  "lastOpenFiles": [
+    "科考/王家坝考察方向.md",
+    "科考/25暑期/第一次研讨.md",
+    "科考/25暑期/第一次研讨-王玉麟-攀枝花+泸沽湖.md",
+    "python笔记.md",
+    "科考/25清明_王玉麟_第一次.md",
+    "科考/24暑期/直播带货具体问题.md",
+    "科考/24暑期/王玉麟-第一次研讨-林下经济.md",
+    "科考/24暑期/2024暑期宣传总结.md",
+    "科考/24暑期/2024科考暑期个人总结.md",
+    "杂文件/给阶跃AI的建议.md",
+    "图片/Pasted image 20250424173743.png",
+    "图片/Pasted image 20250424173316.png",
+    "图片/Pasted image 20250424173253.png",
+    "图片/Pasted image 20250424173245.png",
+    "SQL笔记.md",
+    "作业/Analysis and Practice of the Data/exp3-王玉麟.md",
+    "交响乐赏析.md",
+    "量子物理期中.md",
+    "李宏毅-transformer.md",
+    "杂文件/2025王家坝清明考察-财副总结.md",
+    "数据库系统概论lab1.md",
+    "图片/Pasted image 20250422200216.png",
+    "图片/Pasted image 20250422193626.png",
+    "图片/Pasted image 20250422193403.png",
+    "图片/Pasted image 20250422193127.png",
+    "图片/Pasted image 20250422181313.png",
+    "图片/Pasted image 20250422181153.png",
+    "正则表达式.md",
+    "作业/Analysis and Practice of the Data/exp2-王玉麟.md",
+    "README.md",
+    "未命名 1.md",
+    "草稿.md",
+    "作业/计算方法/lab5-收敛阶分析.md",
+    "作业/计算方法",
+    "machine learning.canvas",
+    "书评/十年之约，血液沸腾.md",
+    "书评/如激流般回转的感情.md",
+    "书评/别具一格的”回合制“游戏.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "作业/Analysis and Practice of the Data",
+    "科考/25暑期",
+    "科考/24暑期",
+    "web",
+    "blender",
+    "书评",
+    "作业/计算系统概论",
+    "作业/数据结构",
+    "作业"
+  ]
+}
