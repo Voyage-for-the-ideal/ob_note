@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d8fca716963f642",
+        "id": "e497260f6a309b89",
         "type": "tabs",
         "children": [
           {
-            "id": "9be763b8fe4d4f42",
+            "id": "48da1c91cbec147f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ab09bfc0044350f",
@@ -139,13 +138,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "cf9b35837bfbdc63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +167,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9be763b8fe4d4f42",
+  "active": "cf9b35837bfbdc63",
   "lastOpenFiles": [
+    "README.md",
+    "作业/计算方法/lab8-Jacobi求对称矩阵特征值+特征向量.md",
+    "作业/计算方法/lab5-收敛阶分析.md",
+    "作业/计算机程序设计/未命名.md",
+    "作业/计算机程序设计/文件夹声明.md",
+    "数据库系统概论lab1.md",
+    "李宏毅-transformer.md",
+    "量子物理期中.md",
     "科考/25暑期/第一次研讨.md",
     "科考/王家坝考察方向.md",
     "科考/25暑期/第一次研讨-王玉麟-攀枝花+泸沽湖.md",
@@ -177,10 +194,7 @@
     "SQL笔记.md",
     "作业/Analysis and Practice of the Data/exp3-王玉麟.md",
     "交响乐赏析.md",
-    "量子物理期中.md",
-    "李宏毅-transformer.md",
     "杂文件/2025王家坝清明考察-财副总结.md",
-    "数据库系统概论lab1.md",
     "图片/Pasted image 20250422200216.png",
     "图片/Pasted image 20250422193626.png",
     "图片/Pasted image 20250422193403.png",
@@ -189,15 +203,10 @@
     "图片/Pasted image 20250422181153.png",
     "正则表达式.md",
     "作业/Analysis and Practice of the Data/exp2-王玉麟.md",
-    "README.md",
     "未命名 1.md",
     "草稿.md",
-    "作业/计算方法/lab5-收敛阶分析.md",
     "作业/计算方法",
     "machine learning.canvas",
-    "书评/十年之约，血液沸腾.md",
-    "书评/如激流般回转的感情.md",
-    "书评/别具一格的”回合制“游戏.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "作业/Analysis and Practice of the Data",
