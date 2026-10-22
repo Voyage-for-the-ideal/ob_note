@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "paper",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Paper Card",
+      "outputPathTemplate": "Research/Notes/{{citekey}}",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "note-template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": true
+}

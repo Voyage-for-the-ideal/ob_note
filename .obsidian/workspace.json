@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e497260f6a309b89",
+        "id": "0e1f23a8e7fb8b50",
         "type": "tabs",
         "children": [
           {
-            "id": "48da1c91cbec147f",
+            "id": "27711a0c4a3ae194",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "正则",
+                "query": "米哈游",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.8687286376953
   },
   "right": {
     "id": "9ab09bfc0044350f",
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科考/25暑期/第一次研讨.md",
+                "file": "diary/2026-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第一次研讨 的反向链接列表"
+              "title": "2026-07-02 的反向链接列表"
             }
           },
           {
@@ -123,7 +125,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -134,13 +138,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "日记/2026-04-28.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-04-28 的大纲"
             }
           },
           {
-            "id": "cf9b35837bfbdc63",
+            "id": "72fc994320856932",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "114b7473f55f6b2b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,14 +169,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -167,56 +187,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf9b35837bfbdc63",
+  "active": "27711a0c4a3ae194",
   "lastOpenFiles": [
+    "comments/movie+comic/不及预期的戏剧.md",
+    "diary/2026-10-21.md",
+    "diary/2026-10-17.md",
+    "未命名.md",
+    "学案1.md",
+    "学案2.md",
+    "学案2.pdf",
+    "_tmp_build/pg-01.png",
+    "_tmp_build/pg-25.png",
+    "_tmp_build/pg-18.png",
+    "_build/学案2.pdf",
+    "_build/学案2.out",
+    "_build/学案2.aux",
+    "_build/学案2.log",
+    "_build/学案2.tex",
+    "_build/convert.js",
+    "_build",
+    "_tmp_build/pg-26.png",
+    "_tmp_build/pg-22.png",
+    "_tmp_build/pg-03.png",
+    "_tmp_build/pg-02.png",
+    "_tmp_build/build.md",
+    "_tmp_build/build.py",
+    "_tmp_build/build.py.tmp.33960.6a08913174b7",
+    "_tmp_build/学案2.orig.md",
+    "_probe/png/page-1.png",
+    "_tmp_xuean2_pandoc.md",
+    "titie.md",
+    "diary/2026-10-03.md",
+    "fix your life.md",
+    "节卡机械臂使用说明.md",
+    "单项认识的陌生人.md",
+    "images/微信图片_20261017160230_156_48.jpg",
+    "images/微信图片_20261017160227_155_48.jpg",
+    "diary/2026-09-26.md",
     "README.md",
-    "作业/计算方法/lab8-Jacobi求对称矩阵特征值+特征向量.md",
-    "作业/计算方法/lab5-收敛阶分析.md",
-    "作业/计算机程序设计/未命名.md",
-    "作业/计算机程序设计/文件夹声明.md",
-    "数据库系统概论lab1.md",
-    "李宏毅-transformer.md",
-    "量子物理期中.md",
-    "科考/25暑期/第一次研讨.md",
-    "科考/王家坝考察方向.md",
-    "科考/25暑期/第一次研讨-王玉麟-攀枝花+泸沽湖.md",
-    "python笔记.md",
-    "科考/25清明_王玉麟_第一次.md",
-    "科考/24暑期/直播带货具体问题.md",
-    "科考/24暑期/王玉麟-第一次研讨-林下经济.md",
-    "科考/24暑期/2024暑期宣传总结.md",
-    "科考/24暑期/2024科考暑期个人总结.md",
-    "杂文件/给阶跃AI的建议.md",
-    "图片/Pasted image 20250424173743.png",
-    "图片/Pasted image 20250424173316.png",
-    "图片/Pasted image 20250424173253.png",
-    "图片/Pasted image 20250424173245.png",
-    "SQL笔记.md",
-    "作业/Analysis and Practice of the Data/exp3-王玉麟.md",
-    "交响乐赏析.md",
-    "杂文件/2025王家坝清明考察-财副总结.md",
-    "图片/Pasted image 20250422200216.png",
-    "图片/Pasted image 20250422193626.png",
-    "图片/Pasted image 20250422193403.png",
-    "图片/Pasted image 20250422193127.png",
-    "图片/Pasted image 20250422181313.png",
-    "图片/Pasted image 20250422181153.png",
-    "正则表达式.md",
-    "作业/Analysis and Practice of the Data/exp2-王玉麟.md",
-    "未命名 1.md",
+    "rebuttal.md",
+    "JS数据类型.md",
     "草稿.md",
-    "作业/计算方法",
-    "machine learning.canvas",
-    "未命名 1.canvas",
+    "diary/7.29肖明军.md",
+    "SOUL.md",
+    "Tshirt_Unfolding_VLA_Plan.md",
+    "comments/short_comment.md",
+    "面向异构 GPU 集群的大语言模型请求特征感知在线调度方法研究.md",
+    "diary/2026-09-17.md",
+    "diary/2026-09-05.md",
     "未命名.canvas",
-    "作业/Analysis and Practice of the Data",
-    "科考/25暑期",
-    "科考/24暑期",
-    "web",
-    "blender",
-    "书评",
-    "作业/计算系统概论",
-    "作业/数据结构",
-    "作业"
+    "笔记/机器学习/machine learning.canvas",
+    "未命名 1.canvas"
   ]
 }
